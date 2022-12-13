@@ -518,6 +518,7 @@ Shadow=0</a:DisplayPreferences>
 <a:CreationDate>1670890756</a:CreationDate>
 <a:ModificationDate>1670890756</a:ModificationDate>
 <a:IconMode>2</a:IconMode>
+<a:EmptyAreaSize>(1200, 1200)</a:EmptyAreaSize>
 <a:Rect>((-1201,-162), (1198,2237))</a:Rect>
 <a:LineColor>12034707</a:LineColor>
 <a:FillColor>16437422</a:FillColor>
