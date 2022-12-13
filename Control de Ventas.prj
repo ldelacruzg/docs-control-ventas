@@ -626,6 +626,22 @@ LABL 0 Arial,8,N</a:FontList>
 </o:ModelDocumentSymbol>
 </c:Symbols>
 </o:ProjectDiagram>
+<o:Shortcut Id="o10">
+<a:ObjectID>F25F5871-D991-49FD-9FBB-FB5BA0F3904F</a:ObjectID>
+<a:Name>Diagram_1</a:Name>
+<a:Code>Diagram_1</a:Code>
+<a:CreationDate>1670888788</a:CreationDate>
+<a:Creator>PAOLA</a:Creator>
+<a:ModificationDate>1670888789</a:ModificationDate>
+<a:Modifier>PAOLA</a:Modifier>
+<a:TargetStereotype/>
+<a:TargetID>87C2C7FD-FDA9-4A04-8B16-CB4D413667CC</a:TargetID>
+<a:TargetClassID>73B5A8EB-0020-48B2-A48F-79F83763EB45</a:TargetClassID>
+<a:TargetPackagePath>&lt;Model&gt;</a:TargetPackagePath>
+<c:FullShortcutReplica>
+<o:SubReplication Ref="o11"/>
+</c:FullShortcutReplica>
+</o:Shortcut>
 </c:ProjectDiagrams>
 <c:Folders>
 <o:ProjectFolder Id="o16">
