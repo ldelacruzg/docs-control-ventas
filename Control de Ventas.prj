@@ -530,7 +530,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:GradientFillMode>65</a:GradientFillMode>
 <a:CustomPictureType>4</a:CustomPictureType>
 <a:CustomTextMode>1</a:CustomTextMode>
-<a:CustomPictureID>3135597F-9DAD-49C9-A0A4-BF3DFA39FA89</a:CustomPictureID>
+<a:CustomPictureID>5C6C004B-FFEE-4994-91AA-8939BE670BDB</a:CustomPictureID>
 <a:GradientEndColor>16777215</a:GradientEndColor>
 <a:KeepAspect>1</a:KeepAspect>
 <c:Object>
@@ -553,7 +553,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:GradientFillMode>65</a:GradientFillMode>
 <a:CustomPictureType>4</a:CustomPictureType>
 <a:CustomTextMode>1</a:CustomTextMode>
-<a:CustomPictureID>927B5B26-2894-4297-8E6C-7FC5A769F058</a:CustomPictureID>
+<a:CustomPictureID>20C0E36E-31C6-4689-AC0A-39330EBD91C7</a:CustomPictureID>
 <a:GradientEndColor>16777215</a:GradientEndColor>
 <a:KeepAspect>1</a:KeepAspect>
 <c:Object>
@@ -642,7 +642,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Code>CLASS_DIAGRAM</a:Code>
 <a:CreationDate>1671836026</a:CreationDate>
 <a:Creator>ldelacruzg</a:Creator>
-<a:ModificationDate>1671843860</a:ModificationDate>
+<a:ModificationDate>1671926154</a:ModificationDate>
 <a:Modifier>ldelacruzg</a:Modifier>
 <a:Location>file:///%[PRJ_ROOT_DIR]%/DIAGRAMA DE CLASES/CLASS_DIAGRAM.oom</a:Location>
 <a:Extension>oom</a:Extension>
