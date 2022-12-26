@@ -3039,7 +3039,7 @@ DAT 1670791432</a:History>
 <a:Creator>ldelacruzg</a:Creator>
 <a:ModificationDate>1670892665</a:ModificationDate>
 <a:Modifier>ldelacruzg</a:Modifier>
-<a:TargetModelURL>file:///%[PRJ_ROOT_DIR]%/CONCEPTUAL LOGIC AND PHYSICAL DIAGRAM/PHYSICAL_DIAGRAM_DB.pdm</a:TargetModelURL>
+<a:TargetModelURL>file:///%[PRJ_ROOT_DIR]%/DIAGRAMAS BASE DE DATOS/PHYSICAL_DIAGRAM_DB.pdm</a:TargetModelURL>
 <a:TargetModelID>4BDF29C1-184C-42E4-80E7-D634714735F0</a:TargetModelID>
 <a:TargetModelClassID>CDE44E21-9669-11D1-9914-006097355D9B</a:TargetModelClassID>
 <a:TargetModelLastModificationDate>1670892665</a:TargetModelLastModificationDate>
